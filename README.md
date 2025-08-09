@@ -2,7 +2,8 @@
 
 ==== Disclaimer ====
 
-AFKether is intended for fun and personal use only. Use at your own risk. While it does not modify game files or memory, using automation software in online competition or competitively in any way may violate the Rivals of Aether 2 TOS or event rulesets.
+AFKether is intended for fun and personal use only. 
+Use at your own risk. While it does not modify game files or memory, using automation software in online competition or competitively in any way may violate the Rivals of Aether 2 TOS or event rulesets.
 This was made with the intention of being used OFFLINE, eliminating "the grind" for cosmetics not everyone has time to grind for, not to hurt the online game in any way. 
 
 Use this tool responsibly, SUPPORT THE OFFICIAL RELEASE!!! PLAY RIVALS 2!!!!!!!!!!
@@ -54,7 +55,7 @@ In order to use this tool, do the following:
 
 If building the .exe with changes
   - make sure the main logic script runs at least once
-  - put the latest exe from [here](https://github.com/nefarius/ViGEmBus/releases/tag/v1.22.0) in the directory as well and rename related vars in my files if you need
+  - put the latest exe from [here](https://github.com/nefarius/ViGEmBus/releases/tag/v1.22.0) and include it as a binary when building (see code)
 
 ### Current Features
 
@@ -62,9 +63,11 @@ If building the .exe with changes
 
     - Adjustable match length form 0-10 minutes to mirror the in-game options 
 
-    - Fairly small program without a lot of complexity
+    - Adds a cosmetic calculator that can tell you the collective price of items in Coins/Bucks/USD
 
-    - is purple :)
+    - Allows the current background color to be changed with a HEX picker (and saves!)
+
+    - Includes hyperlinks to important community resources (Dragdown Wiki / NOLT Board) and to this repo
 
 
 ### Dream Features
